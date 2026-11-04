@@ -1,1 +1,1 @@
-# DesePlataformas-de-desenho-de-sgRNA-e-pegRNA-para-edi-o-genomcia
+# Plataformas de Desenho de sgRNA e pegRNA para edição genomica (Versao 1)
